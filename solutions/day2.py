@@ -1,3 +1,4 @@
+INPUT: str = INPUT
 turns = INPUT.split('\n')
 to_win = {
     1: 2,

@@ -1,3 +1,4 @@
+INPUT: str = INPUT
 lines = INPUT.split('\n')
 calories = []
 n = 0
